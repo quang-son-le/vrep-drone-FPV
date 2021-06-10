@@ -1,6 +1,6 @@
 
 
-import vrep
+import sim as vrep
 
 
 import time
